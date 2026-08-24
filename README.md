@@ -1,59 +1,47 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<img width="1907" height="915" alt="Beranda" src="https://github.com/user-attachments/assets/01c9e388-fbb8-4171-951a-8a2a9b16936d" /># 🏨 Web-Based Hotel Reservation System
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+A full-stack web application built to streamline hotel operations, manage room availability, and facilitate user reservations. This project was developed as a comprehensive thesis project, covering both front-end user experience and back-end administrative control.
 
-## About Laravel
+## ✨ Key Features
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+**For Guests (Front-end):**
+*   **Room Browsing:** View available rooms, complete with descriptions, pricing, and images.
+*   **Online Reservation:** Easy-to-use booking system to select check-in/check-out dates.
+*   **Booking History:** Track current and past reservation statuses.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+**For Administration (Back-end):**
+*   **Dashboard Analytics:** Overview of total bookings, revenue, and active guests.
+*   **Room Management:** Add, edit, or delete room types and availability.
+*   **Transaction Reports:** Automated financial reporting and reservation tracking.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## 💻 Tech Stack
+*   **Framework:** Laravel (PHP)
+*   **Database:** MySQL
+*   **Front-end:** HTML, CSS, JavaScript, Bootstrap
+*   **Version Control:** Git & GitHub
 
-## Learning Laravel
+## 📸 Screenshots
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework. You can also check out [Laravel Learn](https://laravel.com/learn), where you will be guided through building a modern Laravel application.
+> **Front-End / User Interface**
+<img width="1907" height="915" alt="Beranda" src="https://github.com/user-attachments/assets/abd2c046-a7fa-4d6b-b38b-fda54351d525" />
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-## Laravel Sponsors
+> **Catalog Room**
+<img width="1902" height="915" alt="Daftar Kamar" src="https://github.com/user-attachments/assets/b5a41cb0-11ba-45d0-a4b8-e2226dc2b00f" />
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
 
-### Premium Partners
+> **Room Booking Process**
+<img width="1907" height="908" alt="Pemesanan Kamar" src="https://github.com/user-attachments/assets/2cd8a141-3752-4d46-b807-b2589bf9cbde" />
 
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
 
-## Contributing
+> **Admin Dashboard**
+<img width="1902" height="917" alt="Admin Data Reservasi" src="https://github.com/user-attachments/assets/5e20284c-ba30-4bef-9093-86d8e5b5c161" />
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+## 🚀 How to Run Locally
+1. Clone this repository: `git clone https://github.com/AdryanLukum/hotel-reservation-system.git`
+2. Install dependencies: `composer install`
+3. Copy `.env.example` to `.env` and configure your database credentials.
+4. Generate app key: `php artisan key:generate`
+5. Run migrations: `php artisan migrate`
+6. Start the local server: `php artisan serve`
