@@ -43,6 +43,15 @@ A full-stack web application built to streamline hotel operations, manage room a
 > **Room Booking Process**
 <img width="1907" height="908" alt="Pemesanan Kamar" src="https://github.com/user-attachments/assets/2cd8a141-3752-4d46-b807-b2589bf9cbde" />
 
+>**Riwayat Pesanan**
+<img width="1912" height="964" alt="image" src="https://github.com/user-attachments/assets/d44e9800-3af2-400a-997d-0e8942c64148" />
+
+>**Proses Pembayaran**
+<img width="1904" height="959" alt="image" src="https://github.com/user-attachments/assets/985c5e1e-a16d-4f25-a225-248dacd11448" />
+
+>**Admin Login**
+<img width="1887" height="909" alt="image" src="https://github.com/user-attachments/assets/1b8849c5-7e2b-49eb-ad45-ee616bdb8bc8" />
+
 > **Admin Dashboard**
 <img width="1902" height="917" alt="Admin Data Reservasi" src="https://github.com/user-attachments/assets/5e20284c-ba30-4bef-9093-86d8e5b5c161" />
 
