@@ -18,12 +18,12 @@ A full-stack web application built to streamline hotel operations, manage room a
 
 ## ✨ Key Features
 
-**For Guests (Front-end):**
+**For Guests:**
 *   **Room Browsing:** View available rooms, complete with descriptions, pricing, and images.
 *   **Online Reservation:** Easy-to-use booking system to select check-in/check-out dates.
 *   **Booking History:** Track current and past reservation statuses.
 
-**For Administration (Back-end):**
+**For Administration:**
 *   **Dashboard Analytics:** Overview of total bookings, revenue, and active guests.
 *   **Room Management:** Add, edit, or delete room types and availability.
 *   **Transaction Reports:** Automated financial reporting and reservation tracking.
@@ -33,6 +33,7 @@ A full-stack web application built to streamline hotel operations, manage room a
 *   **Database:** MySQL
 *   **Front-end:** HTML, CSS, JavaScript, Bootstrap
 *   **Version Control:** Git & GitHub
+*   **Web Server:** Apache
 
 ## 📸 Screenshots
 
