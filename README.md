@@ -2,6 +2,20 @@
 
 A full-stack web application built to streamline hotel operations, manage room availability, and facilitate user reservations. This project was developed as a comprehensive thesis project, covering both front-end user experience and back-end administrative control.
 
+## 🚀 How to Run Locally
+1. Clone this repository: `git clone https://github.com/AdryanLukum/hotel-reservation-system.git`
+2. Install dependencies: `composer install`
+3. Copy `.env.example` to `.env` and configure your database credentials.
+4. Generate app key: `php artisan key:generate`
+5. Run migrations: `php artisan migrate`
+6. Start the local server: `php artisan serve`
+
+## How to Run Online/🌐Live Demo
+1. Click Link: https://hotelhidayah-adryan.infinityfreeapp.com
+2. Login or Sign Up
+3. Or Use My Testing Account
+4. Username: Peter Parker, Password: Peter1234
+
 ## ✨ Key Features
 
 **For Guests (Front-end):**
@@ -67,17 +81,5 @@ A full-stack web application built to streamline hotel operations, manage room a
 >**Receipt Report**
 <img width="1902" height="921" alt="image" src="https://github.com/user-attachments/assets/56fb840a-86ef-4ef5-830d-ed6a168dcb70" />
 
- or 
-## 🚀 How to Run Locally
-1. Clone this repository: `git clone https://github.com/AdryanLukum/hotel-reservation-system.git`
-2. Install dependencies: `composer install`
-3. Copy `.env.example` to `.env` and configure your database credentials.
-4. Generate app key: `php artisan key:generate`
-5. Run migrations: `php artisan migrate`
-6. Start the local server: `php artisan serve`
 
-## How to Run Online
-1. Click Link: https://hotelhidayah-adryan.infinityfreeapp.com
-2. Login or Sign Up
-3. Or Use My Testing Account
-4. Username: Peter Parker, Password: Peter1234
+
