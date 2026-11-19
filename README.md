@@ -43,10 +43,10 @@ A full-stack web application built to streamline hotel operations, manage room a
 > **Room Booking Process**
 <img width="1907" height="908" alt="Pemesanan Kamar" src="https://github.com/user-attachments/assets/2cd8a141-3752-4d46-b807-b2589bf9cbde" />
 
->**Riwayat Pesanan**
+>**Order History**
 <img width="1912" height="964" alt="image" src="https://github.com/user-attachments/assets/d44e9800-3af2-400a-997d-0e8942c64148" />
 
->**Proses Pembayaran**
+>**Payment Process**
 <img width="1904" height="959" alt="image" src="https://github.com/user-attachments/assets/985c5e1e-a16d-4f25-a225-248dacd11448" />
 
 >**Admin Login**
@@ -55,16 +55,16 @@ A full-stack web application built to streamline hotel operations, manage room a
 > **Admin Dashboard**
 <img width="1902" height="917" alt="Admin Data Reservasi" src="https://github.com/user-attachments/assets/5e20284c-ba30-4bef-9093-86d8e5b5c161" />
 
->**Data Kamar**
+>**Room Data**
 <img width="1905" height="959" alt="image" src="https://github.com/user-attachments/assets/849e441a-5d3e-4288-ada0-cddb029614b0" />
 
->**Data Tamu**
+>**Guest Data**
 <img width="1906" height="957" alt="image" src="https://github.com/user-attachments/assets/c27c7aaa-ff22-4e2b-af38-f6fbc515efb3" />
 
->**Arsip Data**
+>**Archive Data**
 <img width="1903" height="930" alt="image" src="https://github.com/user-attachments/assets/f1834b5c-831c-4f23-b7b9-6d88922ebd8f" />
 
->**Laporan Penerimaan**
+>**Receipt Report**
 <img width="1902" height="921" alt="image" src="https://github.com/user-attachments/assets/56fb840a-86ef-4ef5-830d-ed6a168dcb70" />
 
  or 
@@ -80,5 +80,4 @@ A full-stack web application built to streamline hotel operations, manage room a
 1. Click Link: https://hotelhidayah-adryan.infinityfreeapp.com
 2. Login or Sign Up
 3. Or Use My Testing Account
-   Username: Peter Parker
-   Password: Peter1234
+4. Username: Peter Parker, Password: Peter1234
